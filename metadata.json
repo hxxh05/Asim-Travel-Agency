@@ -1,0 +1,6 @@
+{
+  "name": "Asim Travel — Aviation & Pilgrimage",
+  "description": "East Africa's premier pilgrimage logistics, dual-hub flight desk, and expedited visa service bridging Nairobi, Mogadishu, the Holy Sanctuary, and Dubai.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
